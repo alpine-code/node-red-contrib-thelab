@@ -1,6 +1,6 @@
 {
     "name": "@alpine-code/node-red-contrib-thelab",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "The Lab for Node-RED ",
     "main": "index.js",
     "scripts": {
